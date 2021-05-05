@@ -1,3 +1,3 @@
 # Counters
-These are free programs used for counting nuclie in the images. 
+These are free programs used for counting........ 
 Tutorial could be provided here.
